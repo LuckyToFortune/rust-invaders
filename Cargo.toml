@@ -1,0 +1,9 @@
+[package]
+name = "invaders"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.17.5"
+rusty_audio = "1.1.4"
+rusty_time = "0.11.0"
